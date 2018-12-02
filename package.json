@@ -1,0 +1,12 @@
+{
+  "name": "Discord.JS-Tutorial-Episode-7",
+  "version": "1.0.0",
+  "description": "The code from the MenuDocs Discord.js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
